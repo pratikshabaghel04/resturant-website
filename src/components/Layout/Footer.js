@@ -21,7 +21,7 @@ const Footer = () => {
 
             <Typography variant="h5" sx={{"@media (max-width:500px)": {fonstSize: "1rem", },
             }}>
-            All Rights Reserved &copy; Techinfo YT</Typography>
+            All Rights Reserved &copy; Pratiksha Baghel</Typography>
        </Box> 
     </>
   )
